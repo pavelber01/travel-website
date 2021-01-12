@@ -1,3 +1,6 @@
 # A simple css and JS example
 
-Just an example of tiny styles and simple animations
+This project demonstrates these technologies:
+- CSS
+- JavaScript
+- HTML
